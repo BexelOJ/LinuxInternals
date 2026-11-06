@@ -1,0 +1,21 @@
+11. Linux Advanced Internals :
+
+No.	Topic - Practical work
+
+146	Dynamic Linker - ld.so
+147	ELF Format - ELF inspection
+148	Static vs Dynamic Linking - Build experiments
+149	Shared Libraries - dlopen(), dlsym()
+150	Linux Security Modules - LSM architecture
+151	AppArmor - Application confinement
+152	SELinux - Mandatory access control
+153	Containers - Container implementation
+154	Docker Internals - Namespaces and cgroups
+155	Linux Real-Time - PREEMPT_RT
+156	Kernel Live Patching - Live kernel updates
+157	Kernel Crash Dump - kdump
+158	Linux Bootloader - GRUB
+159	Init Systems - systemd
+160	Kernel Configuration - Kconfig and .config
+
+

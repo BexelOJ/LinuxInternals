@@ -1,0 +1,17 @@
+9. Linux Networking Internals :
+
+No.	Topic - Practical work
+
+118	Network Stack - Linux network architecture
+119	Socket Internals - Socket lifecycle
+120	TCP Internals - TCP state machine
+121	UDP Internals - Datagram processing
+122	Routing - Routing table
+123	ARP - Address resolution
+124	Netfilter - Packet filtering
+125	iptables/nftables - Firewall experiments
+126	Network Namespaces - Network isolation
+127	Virtual Ethernet - veth pairs
+128	Packet Capture - libpcap
+
+

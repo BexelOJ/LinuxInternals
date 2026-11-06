@@ -1,0 +1,21 @@
+2. Process Management Internals :
+
+No.	Topic - Practical work
+
+11	Process and Thread - getpid(), gettid()
+12	Process Creation - fork()
+13	Process Replacement - exec()
+14	Process Termination - exit(), _exit()
+15	Process Synchronization - wait(), waitpid()
+16	Zombie Process - Create and inspect zombie
+17	Orphan Process - Parent termination
+18	Daemon Process - Daemon implementation
+19	Process Groups - setpgid()
+20	Sessions - setsid()
+21	Signals - sigaction()
+22	Process States - /proc/PID/stat
+23	Scheduling - sched_setscheduler()
+24	CPU Affinity - sched_setaffinity()
+25	Context Switching - Process/thread experiments
+
+

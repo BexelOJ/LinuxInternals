@@ -1,0 +1,21 @@
+5. Linux Multithreading and Synchronization :
+
+No.	Topic - Practical work
+
+56	POSIX Threads - pthread_create()
+57	Thread Attributes - pthread_attr_t
+58	Thread Joining - pthread_join()
+59	Mutex - pthread_mutex_t
+60	Recursive Mutex - Recursive locking
+61	Read-Write Lock - pthread_rwlock_t
+62	Condition Variables - pthread_cond_wait()
+63	Semaphores - sem_wait()
+64	Spinlocks - pthread_spinlock_t
+65	Atomic Operations - C11 atomics
+66	Race Conditions - Shared counter
+67	Deadlocks - Deadlock demonstration
+68	Priority Inversion - Thread scheduling experiment
+69	Thread Scheduling - Real-time thread policies
+70	CPU Affinity - Pin threads to CPUs
+
+

@@ -1,0 +1,23 @@
+10. Linux Debugging, Performance and Security :
+
+No.	Topic - Practical work
+
+129	GDB - Debug C programs
+130	strace - System call tracing
+131	ltrace - Library call tracing
+132	perf - Performance profiling
+133	ftrace - Kernel function tracing
+134	tracepoints - Kernel events
+135	eBPF - Kernel observability
+136	KASAN - Kernel Address Sanitizer
+137	KCSAN - Kernel Concurrency Sanitizer
+138	KMSAN - Kernel Memory Sanitizer
+139	UBSAN - Undefined Behavior Sanitizer
+140	Lockdep - Lock dependency checking
+141	Core Dumps - Crash analysis
+142	Kernel OOPS Analysis - Stack trace debugging
+143	Linux Capabilities - Privilege management
+144	Seccomp - System call filtering
+145	Namespaces and cgroups - Container internals
+
+

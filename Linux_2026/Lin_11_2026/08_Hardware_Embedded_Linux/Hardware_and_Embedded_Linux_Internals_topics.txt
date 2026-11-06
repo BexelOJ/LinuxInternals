@@ -1,0 +1,18 @@
+8. Hardware and Embedded Linux Internals :
+
+No.	Topic - Practical work
+
+106	Device Tree - DTS/DTB
+107	Platform Drivers - Platform driver
+108	GPIO - GPIO driver
+109	I2C - I2C client driver
+110	SPI - SPI driver
+111	UART - Serial driver
+112	Interrupt Controller - IRQ handling
+113	DMA - DMA engine
+114	PCIe - PCI device discovery
+115	USB Internals - USB driver concepts
+116	Power Management - Suspend/resume
+117	Runtime PM - Runtime power management
+
+

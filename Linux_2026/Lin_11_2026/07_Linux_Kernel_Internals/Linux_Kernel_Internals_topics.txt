@@ -1,0 +1,27 @@
+7. Linux Kernel Internals :
+
+No.	Topic - Practical work
+
+85	Kernel Architecture - Kernel subsystems
+86	Kernel Modules - .ko development
+87	Character Drivers - Character device
+88	Block Drivers - Block device concepts
+89	file_operations - Driver callbacks
+90	Kernel Memory Allocation - kmalloc(), kzalloc()
+91	vmalloc() - Virtual allocation
+92	Kernel Linked Lists - list_head
+93	Kernel Workqueues - Deferred work
+94	Kernel Timers - Timer callbacks
+95	Kernel Wait Queues - Blocking operations
+96	Kernel Mutex - struct mutex
+97	Kernel Spinlocks - spinlock_t
+98	Interrupt Handling - Top half and bottom half
+99	Tasklets - Deferred execution concepts
+100	Softirqs - Kernel deferred work
+101	RCU - Read-Copy-Update
+102	Kernel Threads - kthread
+103	Kernel Scheduler - Scheduling internals
+104	System Call Implementation - Custom syscall concepts
+105	Kernel Tracing - ftrace
+
+

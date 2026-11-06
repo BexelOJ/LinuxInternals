@@ -1,0 +1,20 @@
+6. Linux File System Internals :
+
+No.	Topic - Practical work
+
+71	File Descriptors - open(), close()
+72	File Operations - read(), write()
+73	File Metadata - stat()
+74	Inodes - Inode inspection
+75	Hard Links - link()
+76	Soft Links - symlink()
+77	Directory Operations - opendir(), readdir()
+78	File Permissions - chmod(), chown()
+79	File Locks - flock(), fcntl()
+80	Virtual File System - VFS architecture
+81	Mounting - mount(), umount()
+82	Filesystem Types - ext4, procfs, tmpfs
+83	Page Cache - File caching experiments
+84	Direct I/O - O_DIRECT
+
+

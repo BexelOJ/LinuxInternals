@@ -1,0 +1,23 @@
+4. Linux IPC – Inter-Process Communication :
+
+No.	Topic - Practical work
+
+39	Unnamed Pipes - pipe()
+40	Named Pipes (FIFO) - mkfifo()
+41	Message Queues - POSIX message queues
+42	System V Message Queues - msgget()
+43	Shared Memory - shmget(), shmat()
+44	Semaphores - sem_init()
+45	System V Semaphores - semget()
+46	Unix Domain Sockets - Local communication
+47	TCP Sockets - Client/server
+48	UDP Sockets - Datagram communication
+49	Netlink Sockets - User/kernel communication
+50	Eventfd - Event notification
+51	Signalfd - Signal handling through FD
+52	Blocking vs Non-blocking I/O - Practical comparison
+53	select() - I/O multiplexing
+54	poll() - I/O multiplexing
+55	epoll() - Scalable I/O multiplexing
+
+

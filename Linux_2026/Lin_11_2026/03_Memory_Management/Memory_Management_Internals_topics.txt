@@ -1,0 +1,19 @@
+3. Memory Management Internals :
+
+No.	Topic - Practical work
+
+26	Virtual Memory - Address-space inspection
+27	Physical Memory - /proc/meminfo
+28	Stack Memory - Stack allocation
+29	Heap Memory - malloc(), free()
+30	Memory Mapping - mmap(), munmap()
+31	Page Faults - Minor and major faults
+32	Copy-on-Write - fork() memory experiment
+33	Shared Memory - shm_open()
+34	Memory Protection - mprotect()
+35	Memory Leaks - Valgrind
+36	OOM Killer - Out-of-memory analysis
+37	Slab Allocator - Kernel allocation concepts
+38	Buddy Allocator	- Physical page allocation
+
+

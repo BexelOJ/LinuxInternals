@@ -1,0 +1,16 @@
+1. Linux Architecture and Fundamentals :
+
+No.	Topic - Practical work
+
+01	Linux Architecture - Kernel vs user space
+02	System Calls - syscall()
+03	glibc and System Calls - Library vs kernel interface
+04	Linux Boot Process - Boot stages
+05	Kernel Modules - Load/unload modules
+06	Kernel OOPS and Panic\ - Error analysis
+07	Kernel Logging - printk(), dmesg
+08	udev - Device management
+09	procfs - /proc interface
+10	sysfs - /sys interface
+
+
